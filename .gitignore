@@ -214,3 +214,7 @@ config.py
 db_config.py
 connection_secrets.txt
 *.sql
+
+!database/ubereats_analytics.db
+!data/*.csv
+!data/*.json

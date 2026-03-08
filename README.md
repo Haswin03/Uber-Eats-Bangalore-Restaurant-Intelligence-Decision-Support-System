@@ -1,5 +1,10 @@
 # Uber Eats Bangalore: Restaurant Intelligence & Decision Support System
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 ## 📌 Project Overview
 This project is a **Data Engineering and Business Intelligence** solution designed to analyze the Uber Eats restaurant marketplace in Bangalore. It functions as a **Decision Support System (DSS)** that helps stakeholders make data-driven choices regarding location strategy, pricing, and feature adoption.
 
